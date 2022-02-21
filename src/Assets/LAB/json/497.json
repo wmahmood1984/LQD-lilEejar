@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #497",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/497.png",
+  "dna": "18df7b901c9132906328677018e7cf3d6d8a2ff6",
+  "edition": 497,
+  "date": 1645003654430,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "u"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADPOOLISH"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTSGREY"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRTGRAY"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSHOVEL"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOESYELLOWBOOTS"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

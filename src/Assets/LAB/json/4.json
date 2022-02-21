@@ -1,0 +1,37 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "s"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADITALIAN"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTSORANGE"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSTICK"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "description": "This is Labor",
+  "image": "https://ipfs.io/ipfs/QmaDpsSahwprTAHDW9Vvsg47zfBECrCgFUF2EkdPXMV5Hb",
+  "name": "Labor"
+}
+
+

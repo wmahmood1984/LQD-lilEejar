@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #27",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "dna": "8a5c8d0c19c865297dee6dba7953ea818bad3b72",
+  "edition": 27,
+  "date": 1644999333237,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "P_11"
+    },
+    {
+      "trait_type": "AURA",
+      "value": "AURA_01"
+    },
+    {
+      "trait_type": "BASE_FACE",
+      "value": "CIGARETTE_01"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES_37"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS_00"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD_00"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS_05"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT_04"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES_02"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

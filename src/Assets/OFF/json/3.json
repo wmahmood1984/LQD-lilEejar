@@ -1,0 +1,40 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "d"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "SHIRTS",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSWITHBAG"
+    },
+    {
+      "trait_type": "OBJECT",
+      "value": "OBJECTLAPTOP02"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "description": "This is Officer",
+  "image": "https://ipfs.io/ipfs/QmNi9zKmCT9UNZL7XoLUx1a24kkMhZgNAGvH5sxa3dUpcB",  "name": "Officer"
+}
+
+

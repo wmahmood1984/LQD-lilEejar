@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #365",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/365.png",
+  "dna": "f0b6d1a7bf3afef6a368e44c32c804a9cd4b4fb8",
+  "edition": 365,
+  "date": 1645004429815,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "f"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADWEIRD"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "SHIRTS",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSTAPLER"
+    },
+    {
+      "trait_type": "OBJECT",
+      "value": "OBJECTDOG"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

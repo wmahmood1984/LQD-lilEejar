@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #323",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/323.png",
+  "dna": "091be33ce7dfa1c75ac752ad6d8fe36577ad84b3",
+  "edition": 323,
+  "date": 1645003643244,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "r"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADSALVADORDALI"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PNATSBLACK"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRTWITHOIL"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSHOVELBROOM"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOESYELLOW"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

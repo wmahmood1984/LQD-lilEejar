@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #431",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/431.png",
+  "dna": "408bab9befeb7f75695872113b01aacf505c5a62",
+  "edition": 431,
+  "date": 1644999365851,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "O_10"
+    },
+    {
+      "trait_type": "AURA",
+      "value": "AURA_06"
+    },
+    {
+      "trait_type": "BASE_FACE",
+      "value": "CIGARETTE_01"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES_25"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS_00"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD_00"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS_03"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT_01"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES_05"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

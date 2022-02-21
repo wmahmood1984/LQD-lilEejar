@@ -1,0 +1,45 @@
+{
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "Q_12"
+    },
+    {
+      "trait_type": "AURA",
+      "value": "AURA_06"
+    },
+    {
+      "trait_type": "BASE_FACE",
+      "value": "PURE_02"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES_29"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS_00"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD_00"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS_04"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT_02"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES_05"
+    }
+  ],
+  "description": "This is BusinessMan",
+  "image": "https://ipfs.io/ipfs/QmRHxPsGUz4Pake6s731EWmnHBKDjPr6pBurXor7h3YeX4",
+  "name": "Business Man"
+}
+
+

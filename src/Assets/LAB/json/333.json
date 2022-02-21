@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #333",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/333.png",
+  "dna": "adfb3e67d2cda2657423d1e73b6fa1735f3de0e4",
+  "edition": 333,
+  "date": 1645003643893,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "r"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADPOOLISH"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTSSHORTGREY"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRTEVA"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSTICK"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOESYELLOW"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #360",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/360.png",
+  "dna": "e6239dbe8c1555e7e3e9e3e0a9f8f57c2034ee69",
+  "edition": 360,
+  "date": 1644999360274,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "A_00"
+    },
+    {
+      "trait_type": "AURA",
+      "value": "AURA_06"
+    },
+    {
+      "trait_type": "BASE_FACE",
+      "value": "CIGARETTE_01"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES_21"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS_00"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD_00"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS_02"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT_00"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES_01"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

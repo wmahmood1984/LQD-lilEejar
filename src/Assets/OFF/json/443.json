@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #443",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/443.png",
+  "dna": "8c70dd7af2b39b7f36c7b7df00d0a236e0cf7913",
+  "edition": 443,
+  "date": 1645004435323,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "a"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADSUSPICIOUS"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "SHIRTS",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSSTAPLER"
+    },
+    {
+      "trait_type": "OBJECT",
+      "value": "OBJECTIPAD"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

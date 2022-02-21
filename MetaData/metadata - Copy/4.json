@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "https://bafybeifazkkfbllsvisc2t2wkye2mv7fxo22c22mtfa5almqbj5oh6q4xe.ipfs.dweb.link/images/4.png",
+  "dna": "17371f58e039d3c149d6d1de78475992d59aa028",
+  "edition": 4,
+  "date": 1644999331543,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUNDS",
+      "value": "G_17"
+    },
+    {
+      "trait_type": "AURA",
+      "value": "AURA_06"
+    },
+    {
+      "trait_type": "BASE_FACE",
+      "value": "CIGARETTE_01"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES_30"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS_00"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEAD_00"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS_03"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRT_04"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOES_04"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

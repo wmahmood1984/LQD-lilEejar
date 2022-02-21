@@ -1,0 +1,11 @@
+{
+  "name": "Dave Starbelly",
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "external_link": "https://openseacreatures.io/3", 
+  "image": "https://bafybeifazkkfbllsvisc2t2wkye2mv7fxo22c22mtfa5almqbj5oh6q4xe.ipfs.dweb.link/images/1.png", 
+  
+  "traits": [
+    {"trait_type":"Stamina",
+      "value" : 3} 
+  ] 
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #437",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/437.png",
+  "dna": "46e5f22cdcd352d0c2506eb0e93c31feaf3514f4",
+  "edition": 437,
+  "date": 1645003650593,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "t"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADWEIRD"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTSPURPLE"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRTLINEARLIGHT"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDS"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOESYELLOWBOOTS"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

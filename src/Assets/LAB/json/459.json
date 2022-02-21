@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #459",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/459.png",
+  "dna": "122464c6c5cad7a2fff89bf7d071d6ca3b89fd03",
+  "edition": 459,
+  "date": 1645003652030,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "l"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "HEADPOOLISH"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "SHIRT",
+      "value": "SHIRTTOXIC"
+    },
+    {
+      "trait_type": "HANDS",
+      "value": "HANDSBROOM"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SHOESNEONSPORT"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
