@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #217",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/217.png",
+  "dna": "5249ac79fbebc4121c823c1a520428ff32f7ac06",
+  "edition": 217,
+  "date": 1645959621031,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "i"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "HEADSLEEPINGINWORK"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HELMET"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSSHOVELMOP"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PANTSTOXIC"
+    },
+    {
+      "trait_type": "07_SHIRT",
+      "value": "SHIRTBLACK"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOESYELLOW"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #102",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/102.png",
+  "dna": "bd8d7025ae30b01ea7aedf2cc79d3adfcab21b4d",
+  "edition": 102,
+  "date": 1645961538712,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "03_OBJECT_HEAD",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "08_PANTS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "06_SHIRTS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "07_SHOES",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "09_OBJECT",
+      "value": "MILITARY"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

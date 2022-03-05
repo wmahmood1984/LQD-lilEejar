@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #476",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/476.png",
+  "dna": "7b13aaa3afefdd883c464ee9b63c484ec03577c7",
+  "edition": 476,
+  "date": 1645959647960,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "f"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "HEADSNOOPDOG"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HELMET"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSSHOVELBROOM"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PANTSTOXIC"
+    },
+    {
+      "trait_type": "07_SHIRT",
+      "value": "SHIRTTOXIC"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOESSPORT"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

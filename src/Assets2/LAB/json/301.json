@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #301",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/301.png",
+  "dna": "2aab63a08b25fa48e540f00be41168772316780e",
+  "edition": 301,
+  "date": 1645959630824,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "o"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "HEADSALVADORDALI"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HELMET"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSSHOVEL"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PNATSBLACK"
+    },
+    {
+      "trait_type": "07_SHIRT",
+      "value": "SHIRTLINEARLIGHT"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #57",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "dna": "5b6066ce84432c353aaeb180564b4a71dcdb2a24",
+  "edition": 57,
+  "date": 1645959599361,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "p"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "HEADWEIRD"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HELMET"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSDRILL"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PANTSLINEARLIGHT"
+    },
+    {
+      "trait_type": "07_SHIRT",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOESNEONSPORT"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

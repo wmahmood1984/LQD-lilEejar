@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #335",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/335.png",
+  "dna": "57ae0c8dce7c00cc60070f05524efdd259cb75a3",
+  "edition": 335,
+  "date": 1645960345588,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "02_AURA",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "03_HEAD",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "MILITARYBUSINESSMANDIVIDEDRecuperado0001s0000GLASES#03"
+    },
+    {
+      "trait_type": "05_OBJECT_HEAD",
+      "value": "MILITARYBUSINESSMANDIVIDEDRecuperado0000s0000HAT04copia#2"
+    },
+    {
+      "trait_type": "06_HANDS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "08_PANTS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "07_SHIRTS",
+      "value": "MILITARY"
+    },
+    {
+      "trait_type": "09_SHOES",
+      "value": "MILITARY"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

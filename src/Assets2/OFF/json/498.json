@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #498",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/498.png",
+  "dna": "d4d9db4aeaa84f3cf16b9bdb4cd69577f5b07c59",
+  "edition": 498,
+  "date": 1645959936965,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "h"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "PIXELARTOBJECTFACE"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HAIRSTYLE"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSWITHDEAL"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "07_SHIRTS",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOES"
+    },
+    {
+      "trait_type": "09_OBJECT",
+      "value": "OBJECTDOG"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

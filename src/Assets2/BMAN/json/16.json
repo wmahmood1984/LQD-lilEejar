@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #16",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "34a493aaf5aee60663ae5c97ae8696cb46f91346",
+  "edition": 16,
+  "date": 1645959164544,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "n"
+    },
+    {
+      "trait_type": "02_AURA",
+      "value": "AURA"
+    },
+    {
+      "trait_type": "03_HEAD",
+      "value": "HEAD"
+    },
+    {
+      "trait_type": "04_BASE_FACE",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "05_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "06_HANDS",
+      "value": "HANDS"
+    },
+    {
+      "trait_type": "07_PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "08_SHIRT",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "09_SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

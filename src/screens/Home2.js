@@ -15,6 +15,7 @@ import NFT from "../Assets/NFT.gif"
 import badge2 from "../Assets/MILITARY-1/MILITARY/BADGES/BADGE_0008_02_FIRST_LIEUTENANT.png"
 import badge3 from "../Assets/MILITARY-1/MILITARY/BADGES/BADGE_0007_03_CAPTAIN.png"
 import badge4 from "../Assets/MILITARY-1/MILITARY/BADGES/BADGE_0006_04_MAJOR.png"
+import badge5 from "../Assets/MILITARY-1/FIRST_LIEUTENANT_LEVEL_01.gif"
 import { picInfo } from "../Assets/Summary3";
 import {abi,contractAddress, chainId} from "../config.js"
 import { toast } from "react-toastify";
@@ -352,7 +353,7 @@ const powerUP= async (cClass,series, elig,id)=>{
   console.log("series",series)
   var eligibilityPic = elig ==2? badge2: elig==3? badge3 : badge4 
 
-  var oComb = await  mergeImages([picInfo[dClass][Number(series)], eligibilityPic], {
+  var oComb = await  mergeImages([picInfo[dClass][Number(series)], badge5], {
 		Canvas: Canvas,
 		Image: Image
 	  })
@@ -367,12 +368,13 @@ const powerUP= async (cClass,series, elig,id)=>{
 		var added3 =  await client.add( JSON.stringify(data[dClass][series]))
     var url2 = `https://gateway.pinata.cloud/ipfs/${added3.path}`
     console.log("url",url2)
+    console.log("imag",url)
 		//window.open(`${url}`)
 	  } catch (error) {
 		console.log('Error uploading file: ', error)
 	  }
 
-    dispatch(Power({id,url:url2,ImgUri:url}))
+//    dispatch(Power({id,url:url2,ImgUri:url}))
 }
 
 

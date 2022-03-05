@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #424",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/424.png",
+  "dna": "7195b360b58f3caf339611a2070fa76dcdf85a08",
+  "edition": 424,
+  "date": 1645959207735,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "e"
+    },
+    {
+      "trait_type": "02_AURA",
+      "value": "AURA"
+    },
+    {
+      "trait_type": "03_HEAD",
+      "value": "HEAD"
+    },
+    {
+      "trait_type": "04_BASE_FACE",
+      "value": "WEED"
+    },
+    {
+      "trait_type": "05_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "06_HANDS",
+      "value": "HANDS"
+    },
+    {
+      "trait_type": "07_PANTS",
+      "value": "PANTS"
+    },
+    {
+      "trait_type": "08_SHIRT",
+      "value": "SHIRT"
+    },
+    {
+      "trait_type": "09_SHOES",
+      "value": "SHOES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

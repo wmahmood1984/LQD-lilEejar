@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #365",
+  "description": "https://ipfs.io/ipfs/",
+  "image": "ipfs://NewUriToReplace/365.png",
+  "dna": "d7c8b43197fe8d0b92efb1342f5a9ffa8fa2f02b",
+  "edition": 365,
+  "date": 1645959638628,
+  "attributes": [
+    {
+      "trait_type": "01_BACKGROUNDS",
+      "value": "k"
+    },
+    {
+      "trait_type": "02_HEAD",
+      "value": "HEADSALVADORDALI"
+    },
+    {
+      "trait_type": "03_HAIR",
+      "value": "HAIRLUDACRIS"
+    },
+    {
+      "trait_type": "04_GLASSES",
+      "value": "GLASSES"
+    },
+    {
+      "trait_type": "05_HANDS",
+      "value": "HANDSSTICK"
+    },
+    {
+      "trait_type": "06_PANTS",
+      "value": "PNATSBLACK"
+    },
+    {
+      "trait_type": "07_SHIRT",
+      "value": "SHIRTGRAY"
+    },
+    {
+      "trait_type": "08_SHOES",
+      "value": "SHOESSPORT"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
